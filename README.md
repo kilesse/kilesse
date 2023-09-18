@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B445&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Viniciu+Kilesse+Azevedo;I'm+19+years+old;I+from+Sete+Lagoas,+MG;I+study+computer+science+at+Una;I+systems+development+Frontend+Junior;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Viniciu+Kilesse+Azevedo;I'm+19+years+old;I'm+from+Sete+Lagoas,+MG;I+study+computer+science+at+Una;I'm+systems+development+Frontend+Junior;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -41,4 +41,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kilesse}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48B445&height=120&section=footer"/>
